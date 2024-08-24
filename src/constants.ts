@@ -1,0 +1,25 @@
+//Counter合约网络配置
+export const DEVNET_COUNTER_PACKAGE_ID = "0xTODO";
+export const TESTNET_COUNTER_PACKAGE_ID = "0xef63aba377683e6d69d58fdbb3d46ff27b2efa04a432ae3f6fd79ded7c287711";
+export const MAINNET_COUNTER_PACKAGE_ID = "0xTODO";
+//----------------------------------------------------------------
+//MINT_NFT合约网络配置
+export const DEVNET_MINTNFT_PACKAGE_ID = "0xTODO";
+export const TESTNET_MINTNFT_PACKAGE_ID = "0x7e695d52c86ba56d2879dff513275201f17d55385c2d27a16fa5d78120492a32";
+export const MAINNET_MINTNFT_PACKAGE_ID = "0xTODO";
+//COIN_A合约网络配置
+export const DEVNET_COIN_A_TREASURYCAP_ID = "0xTODO";
+export const TESTNET_COIN_A_TREASURYCAP_ID = "0x1c7cb9806b68583db974e97403bd9f0b092d399cce92cd82141428f86e8b7b3e";
+export const MAINNET_COIN_A_TREASURYCAP_ID = "0xTODO";
+//COIN_B合约网络配置
+export const DEVNET_COIN_B_TREASURYCAP_ID = "0xTODO";
+export const TESTNET_COIN_B_TREASURYCAP_ID = "0x9eb8d4b3b1b0aa8e2493545608df28cdc6323afdfc36073d0fa2090f3be342e1";
+export const MAINNET_COIN_B_TREASURYCAP_ID = "0xTODO";
+//uniswqp合约网络配置
+export const DEVNET_UNISWAP_PACKAGE_ID = "0xTODO";
+export const TESTNET_UNISWAP_PACKAGE_ID = "0x41fb4d98a2dfdf76dd56e30a094d684e2ddf244b98f31f2e380102eccff046b0";
+export const MAINNET_UNISWAP_PACKAGE_ID = "0xTODO";
+//liquid合约网络配置
+export const DEVNET_LIQUID_PACKAGE_ID = "0xTODO";
+export const TESTNET_LIQUID_PACKAGE_ID = "0xe78d41ae8e6445253bdc576a0ea707ad828719c3cf59d01facf8d20fee4cf1ca";
+export const MAINNET_LIQUID_PACKAGE_ID = "0xTODO";
