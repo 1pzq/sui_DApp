@@ -17,7 +17,7 @@ export function QueryObject({ id }: { id: string }) {
   if (error) return <div>An error occurred: {error.message}</div>;
 
   // 如果没有查询到数据
-  if (!data || !data.data) return <div>No object data found.</div>;
+  if (!data || !data.data) return <div>Querying......</div>;
 
   // 获取对象内容
   const content = data.data.content as SuiParsedData | null;

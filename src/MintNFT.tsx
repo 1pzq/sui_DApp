@@ -34,7 +34,7 @@ export function MintNFT({ onCreated }: { onCreated: (id: string) => void }) {
           <Button color="red">Mint_NFT</Button>
         </AlertDialog.Trigger>
        <AlertDialog.Content maxWidth="500px">
-          <AlertDialog.Title>Mint NFT</AlertDialog.Title>
+          <AlertDialog.Title>Mint NFT(Discovered！！！)</AlertDialog.Title>
         <AlertDialog.Description size="2">
      Enter the corresponding attributes to create NFT
         </AlertDialog.Description>

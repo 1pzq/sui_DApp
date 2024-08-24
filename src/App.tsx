@@ -21,7 +21,6 @@ function App() {
             </Card>
             <Card size='1' >
             <Footer >
-              hhhh
               <MintNFT onCreated={(id) => console.log(`Uniswap ID: ${id}`)} />
                </Footer>
           </Card>    

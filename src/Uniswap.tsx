@@ -224,7 +224,7 @@ export function Uniswap({ onCreated }: { onCreated: (id: string) => void }) {
                           <Table.Body>
                             <Table.Row>
                             <Table.RowHeaderCell>COIN_LSP_PACKAGEID</Table.RowHeaderCell>
-                            <Table.Cell><input type="text" value={lspId} onChange={(e) => setLspId(e.target.value)} className="PopoverInput"  placeholder="Enter the coinA_Id"/>
+                            <Table.Cell><input type="text" value={lspId} onChange={(e) => setLspId(e.target.value)} className="PopoverInput"  placeholder="Enter the coinLSP_Id"/>
                               </Table.Cell>
                             </Table.Row>
                           </Table.Body>
